@@ -55,7 +55,7 @@ Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandr
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services-1.png" alt="AWS">
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
 <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
 <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
@@ -65,7 +65,8 @@ Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandr
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
 <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
 
-<img src="https://img.icons8.com/color/48/000000/jest.png" alt="Jest">
+<img src="https://img.icons8.com/color/48/000000/jest-2.png" alt="Jest">
+
 
 
 </p>
