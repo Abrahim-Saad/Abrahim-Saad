@@ -55,7 +55,7 @@ Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandr
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS">
+  <img src="[https://img.icons8.com/color/48/000000/aws.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png)" alt="AWS">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
