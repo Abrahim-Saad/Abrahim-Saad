@@ -1,34 +1,35 @@
-<p align="center">
-  <img width="200" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-</p>
+
 
 <h1 align="center">Ibrahim Saad Ali</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
-<p align="center">🚀 Building robust back-end solutions and shaping digital experiences 🌟</p>
+<p align="center">🌟 Crafting digital experiences and solving real-world problems with code 🚀</p>
 
 <p align="center">
   <a href="https://github.com/Abrahim-Saad">
     <img src="https://img.shields.io/github/followers/Abrahim-Saad?label=Followers&style=social" alt="GitHub Followers">
   </a>
   <a href="https://linkedin.com/in/ibrahim-saad">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="mailto:abrahimsaad271@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?label=Follow&style=social" alt="Twitter">
   </a>
 </p>
 
 ---
 
-### About Me 👋
+### 👨‍💻 About Me
 
-I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandria, Egypt. With a strong background in Back-End Development, I've been crafting efficient and reliable solutions for the digital world for over 2 years.
+Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandria, Egypt. With a strong background in Back-End Development, I've been on a mission to craft efficient and reliable solutions for the digital world for over 2 years. I'm constantly exploring new technologies to bring innovative ideas to life.
 
 📝 **[LinkedIn](https://linkedin.com/in/ibrahim-saad)**
 
 ---
 
-### Work Experience 💼
+### 💼 Work Experience
 
 #### Back-End Developer @ VIP-Soft
 *July 2022 - July 2023*
@@ -48,19 +49,21 @@ I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandria, Egypt.
 
 ---
 
-### Tech Stack 🛠️
+### 🛠️ Tech Stack
 
-- Backend Development: Node.js & Express
-- Web Technologies: HTML, CSS, JavaScript, Basics of Angular
-- Databases: MySQL & MongoDB
-- Version Control: Git & GitHub
-- Cloud Services: AWS (VPC, EC2, EBS, S3, ELB, Route 53)
-- Scripting: Basics of Bash Scripting
-- Testing: Unit Testing with Jest and Supertest
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB">
+  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+</p>
 
 ---
 
-### Education 📚
+### 🎓 Education
 
 - **Bachelor's Degree in Computer Science**
   - *October 2019 - July 2023*
@@ -69,7 +72,7 @@ I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandria, Egypt.
 
 ---
 
-### Courses 📖
+### 📖 Courses
 
 - **Full Stack Web Development Diploma (MEAN Stack)**
   - *July 2020 - March 2021*
@@ -81,7 +84,7 @@ I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandria, Egypt.
 
 ---
 
-### Volunteering & Activities 🌟
+### 🌟 Volunteering & Activities
 
 #### International Collegiate Programming Contest (ICPC)
 - Founder and Technical Head *(January 2021 - Present)*
@@ -94,10 +97,12 @@ I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandria, Egypt.
 
 ---
 
-### GitHub Stats 📊
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abrahim-Saad&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abrahim-Saad&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 ---
 
-<p align="center">Thanks for visiting my profile! Feel free to connect with me and explore my projects. Let's code something amazing together! 🚀</p>
+<p align="center">Thanks for stopping by! Let's connect and build amazing things together. Feel free to explore my projects and reach out. Cheers! 🚀</p>
