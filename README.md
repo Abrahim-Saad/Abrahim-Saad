@@ -49,7 +49,7 @@ Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandr
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies 
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
@@ -64,8 +64,7 @@ Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandr
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
 <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
-
-<img src="https://img.icons8.com/color/48/000000/jest-2.png" alt="Jest">
+<img src="https://img.icons8.com/material/48/000000/testing.png" alt="Jest">
 
 
 
