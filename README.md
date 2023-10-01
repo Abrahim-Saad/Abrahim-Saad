@@ -64,7 +64,7 @@ Hi there! I'm Ibrahim Saad Ali, a passionate Software Engineer based in Alexandr
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
 <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
 <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL">
-<img src="https://img.icons8.com/material/48/000000/testing.png" alt="Jest">
+Jest
 
 
 
